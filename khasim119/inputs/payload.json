@@ -1,0 +1,30 @@
+[
+  {
+    "name": "satish",
+    "jobs": [
+      {
+        "role": "developer"
+      },
+      {
+        "role": "tester"
+      },
+      {
+        "role": "actor"
+      }
+    ]
+  },
+  {
+    "name": "satish",
+    "jobs": [
+      {
+        "role": "doctor"
+      },
+      {
+        "role": "teacher"
+      },
+      {
+        "role": "Roller"
+      }
+    ]
+  }
+]
